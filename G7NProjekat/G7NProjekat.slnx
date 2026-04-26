@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="G7NClient.App/G7NClient.App.csproj" />
+  <Project Path="G7NClient.Core/G7NClient.Core.csproj" />
+  <Project Path="G7NClient.Tests/G7NClient.Tests.csproj" />
+</Solution>

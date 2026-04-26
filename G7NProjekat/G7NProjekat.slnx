@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="G7NClient.App/G7NClient.App.csproj" />
-  <Project Path="G7NClient.Core/G7NClient.Core.csproj" />
-  <Project Path="G7NClient.Tests/G7NClient.Tests.csproj" />
+  <Project Path="dCom/dCom/dCom.csproj" Id="b5697ab8-53ac-4230-9b79-e43a6aa54436" />
+  <Project Path="G7NClient.App/G7NServer.App.csproj" />
+  <Project Path="G7NClient.Core/G7NServer.Core.csproj" />
 </Solution>
